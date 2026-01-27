@@ -25,10 +25,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate calendar feed
-        run: python generate_ics_files.py
+        run: python generate_ics.py
         env:
           DISTRICT_ID: ${{ vars.DISTRICT_ID }}
-          SITE_ID: ${{ vars.SITE_ID }}
           MENU_ID: ${{ vars.MENU_ID }}
           OUTPUT_MODE: combined
           OUTPUT_FILENAME: school-lunch.ics
