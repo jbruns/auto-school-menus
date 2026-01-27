@@ -1,0 +1,46 @@
+name: Publish school lunch calendar
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate calendar feed
+        run: python generate_ics_files.py
+        env:
+          DISTRICT_ID: ${{ vars.DISTRICT_ID }}
+          SITE_ID: ${{ vars.SITE_ID }}
+          MENU_ID: ${{ vars.MENU_ID }}
+          OUTPUT_MODE: combined
+          OUTPUT_FILENAME: school-lunch.ics
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add school-lunch.ics
+            git commit -m "Update school lunch calendar"
+            git push
+          else
+            echo "No changes to commit."
+          fi
