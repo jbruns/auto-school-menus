@@ -546,9 +546,9 @@ DTSTART;VALUE=DATE:20260527
 DESCRIPTION:Featured Entree(s):\nChicken Corndog\nOr\nVeggie Burger [Vegan
  ]\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nH
  ome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nBaked
-  Fries\nRomaine Lettuce\nBaby Carrots\nEdamame\n\nFruit:\nSliced Yellow Pe
- aches\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomes
- tyle Ranch Dressing\n
+  Fries\nRomaine Lettuce\nCherry Tomatoes\nEdamame\n\nFruit:\nSliced Yellow
+  Peaches\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHo
+ mestyle Ranch Dressing\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunch: Cheesy Garlic Rippers w/ Marinara Dipping Sauce
@@ -556,9 +556,9 @@ DTSTART;VALUE=DATE:20260528
 DESCRIPTION:Featured Entree(s):\nCheesy Garlic Rippers w/ Marinara Dipping
   Sauce\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burri
  to\nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\n
- Romaine Lettuce\nCherry Tomatoes\nCucumber Slices\n\nFruit:\nApple Slices\
- n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle R
- anch Dressing\n
+ Romaine Lettuce\nBaby Carrots\nEdamame\n\nFruit:\nOrange Wedges\n\nMilk:\n
+ Fat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dress
+ ing\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunch: Beef & Bean Nachos w/ Corn Tortilla Chips
@@ -566,9 +566,9 @@ DTSTART;VALUE=DATE:20260529
 DESCRIPTION:Featured Entree(s):\nBeef & Bean Nachos w/ Corn Tortilla Chips
  \nOr\nBean & Cheese Nachos w/ Corn Tortilla Chips\nWith\nSalsa\n\nDaily Ch
  oices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunb
- utter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nE
- damame\nAssorted Vegetables\n\nFruit:\nAssorted Fresh Fruit\n\nMilk:\nFat 
- Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\
- n
+ utter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nS
+ weet Corn\nAssorted Vegetables\n\nFruit:\nAssorted Fresh Fruit\n\nMilk:\nF
+ at Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressi
+ ng\n
 END:VEVENT
 END:VCALENDAR
