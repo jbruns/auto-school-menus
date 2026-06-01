@@ -1,216 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Lunch: Chicken Alfredo w/ Penne Pasta & Garlic Bread
-DTSTART;VALUE=DATE:20260302
-DESCRIPTION:Featured Entree(s):\nChicken Alfredo w/ Penne Pasta & Garlic B
- read\nVegetarian Alfredo w/ Penne Pasta & Garlic Bread\n\nDaily Choices:\n
- Chicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & 
- Jelly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nBlack Bea
- ns\nCherry Tomatoes\n\nFruit:\nApple Slices\n\nMilk:\nFat Free Chocolate M
- ilk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Mandarin Orange Chicken w/ Brown Rice
-DTSTART;VALUE=DATE:20260303
-DESCRIPTION:Featured Entree(s):\nMandarin Orange Chicken w/ Brown Rice\n\n
- Daily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-m
- ade Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nSteamed Br
- occoli\nRomaine Lettuce\nCherry Tomatoes\nCelery\n\nFruit:\nSliced Pears\n
- \nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ra
- nch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Belgian Waffle w/ Strawberry Compote & Cheese Omelet
-DTSTART;VALUE=DATE:20260304
-DESCRIPTION:Featured Entree(s):\nBelgian Waffle w/ Strawberry Compote & Ch
- eese Omelet\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese 
- Burrito\nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetabl
- es:\nRomaine Lettuce\nBaby Carrots\nBlack Beans\n\nFruit:\nOrange Wedges\n
- \nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ra
- nch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Grilled Cheese Sandwich
-DTSTART;VALUE=DATE:20260305
-DESCRIPTION:Featured Entree(s):\nGrilled Cheese Sandwich\n\nDaily Choices:
- \nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter 
- & Jelly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nSweet C
- orn\nCelery\n\nFruit:\nWashington Grown Blueberries\n\nMilk:\nFat Free Cho
- colate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Cheeseburger
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Featured Entree(s):\nCheeseburger\nOr\nVeggie Burger [Vegan]\n
- \nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome
- -made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nPotato S
- miles\nRomaine Lettuce\nCrunchy Veggies\nAssorted Vegetables\n\nFruit:\nAs
- sorted Fresh Fruit\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nK
- etchup\nHomestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Breaded Chicken Tenders & Wheat Roll
-DTSTART;VALUE=DATE:20260309
-DESCRIPTION:Featured Entree(s):\nBreaded Chicken Tenders & Wheat Roll\nOr\
- nBreaded Kickin' Nuggets & Wheat Roll\n\nDaily Choices:\nChicken Burger\nH
- and-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jelly Sandwich w/
-  String Cheese\n\nVegetables:\nBaked Fries\nRomaine Lettuce\nBlack Beans\n
- Cherry Tomatoes\n\nFruit:\nApple Slices\n\nMilk:\nFat Free Chocolate Milk\
- n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Flaky Egg & Cheese Croissant Sandwich
-DTSTART;VALUE=DATE:20260310
-DESCRIPTION:Featured Entree(s):\nFlaky Egg & Cheese Croissant Sandwich\n\n
- Daily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-m
- ade Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nHash Brown
-  Patty\nRomaine Lettuce\nCherry Tomatoes\nCelery\n\nFruit:\nSliced Pears\n
- \nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ra
- nch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Macaroni & Cheese with Wheat Roll
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Featured Entree(s):\nMacaroni & Cheese with Wheat Roll\n\nDail
- y Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made 
- Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nSteamed Brocco
- li\nRomaine Lettuce\nBaby Carrots\nBlack Beans\n\nFruit:\nOrange Wedges\n\
- nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ran
- ch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Cheese Stuffed Breadsticks with Marinara Dipping Sauce
-DTSTART;VALUE=DATE:20260312
-DESCRIPTION:Featured Entree(s):\nCheese Stuffed Breadsticks with Marinara 
- Dipping Sauce\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Chees
- e Burrito\nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegeta
- bles:\nRomaine Lettuce\nSweet Corn\nCelery\n\nFruit:\nWashington Grown Blu
- eberries\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHo
- mestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Homemade Savory Butter Chicken with WG Flatbread
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Featured Entree(s):\nHomemade Savory Butter Chicken with WG Fl
- atbread\nOr\nHomemade Savory Butter Chickpeas with WG Flatbread\n\nDaily C
- hoices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sun
- butter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\n
- Crunchy Veggies\nAssorted Vegetables\n\nFruit:\nAssorted Fresh Fruit\n\nMi
- lk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch 
- Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Italian Meatballs w/ Penne Pasta & Garlic Bread
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Featured Entree(s):\nItalian Meatballs w/ Penne Pasta & Garlic
-  Bread\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burri
- to\nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\n
- Romaine Lettuce\nBlack Beans\nCherry Tomatoes\n\nFruit:\nApple Slices\n\nM
- ilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch
-  Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Gluten Free Teriyaki Chicken with Brown Rice
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Featured Entree(s):\nGluten Free Teriyaki Chicken with Brown R
- ice\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\
- nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nGre
- en Beans\nRomaine Lettuce\nGreen Pepper\nCelery\n\nFruit:\nGrapes \n\nMilk
- :\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dr
- essing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Dutch Waffle w/ Warm Cinnamon Apples & Cheese Omelet
-DTSTART;VALUE=DATE:20260318
-DESCRIPTION:Featured Entree(s):\nDutch Waffle w/ Warm Cinnamon Apples & Ch
- eese Omelet\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese 
- Burrito\nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetabl
- es:\nRomaine Lettuce\nBaby Carrots\nBlack Beans\n\nFruit:\nSliced Yellow P
- eaches\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHome
- style Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Cheese Pizza Slice
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Featured Entree(s):\nCheese Pizza Slice\n\nDaily Choices:\nChi
- cken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jel
- ly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nCherry Tomat
- oes\nSweet Corn\n\nFruit:\nWashington Grown Blueberries\n\nMilk:\nFat Free
-  Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Crispy Alaskan Pollock Nuggets & Whole Wheat Roll
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Featured Entree(s):\nCrispy Alaskan Pollock Nuggets & Whole Wh
- eat Roll\nOr\nBreaded Kickin' Nuggets & Wheat Roll\n\nDaily Choices:\nChic
- ken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jell
- y Sandwich w/ String Cheese\n\nVegetables:\nBaked Fries\nRomaine Lettuce\n
- Crunchy Veggies\nAssorted Vegetables\n\nFruit:\nAssorted Fresh Fruit\n\nMi
- lk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch 
- Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Roasted Chicken Drumstick w/ Wheat Roll
-DTSTART;VALUE=DATE:20260323
-DESCRIPTION:Featured Entree(s):\nRoasted Chicken Drumstick w/ Wheat Roll\n
- Or\nBreaded Kickin' Nuggets & Wheat Roll\n\nDaily Choices:\nChicken Burger
- \nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jelly Sandwich
-  w/ String Cheese\n\nVegetables:\nMashed Potatoes\nRomaine Lettuce\nBlack 
- Beans\nCherry Tomatoes\n\nFruit:\nApple Slices\n\nMilk:\nFat Free Chocolat
- e Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Lean & Green: Ricotta & Mozzarella Stuffed Lasagna & Garlic
-  Bread
-DTSTART;VALUE=DATE:20260324
-DESCRIPTION:Featured Entree(s):\nLean & Green: Ricotta & Mozzarella Stuffe
- d Lasagna & Garlic Bread\n\nDaily Choices:\nChicken Burger\nHand-wrapped B
- ean & Cheese Burrito\nHome-made Sunbutter & Jelly Sandwich w/ String Chees
- e\n\nVegetables:\nRomaine Lettuce\nCherry Tomatoes\nCelery\n\nFruit:\nSlic
- ed Pears\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHo
- mestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Chicken Corndog
-DTSTART;VALUE=DATE:20260325
-DESCRIPTION:Featured Entree(s):\nChicken Corndog\nOr\nVeggie Burger [Vegan
- ]\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nH
- ome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nBaked
-  Fries\nRomaine Lettuce\nBaby Carrots\nBlack Beans\n\nFruit:\nOrange Wedge
- s\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle
-  Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Cheesy Garlic Rippers w/ Marinara Dipping Sauce
-DTSTART;VALUE=DATE:20260326
-DESCRIPTION:Featured Entree(s):\nCheesy Garlic Rippers w/ Marinara Dipping
-  Sauce\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burri
- to\nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\n
- Romaine Lettuce\nAssorted Vegetables\nCrunchy Veggies\n\nFruit:\nWashingto
- n Grown Blueberries\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\n
- Ketchup\nHomestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Chicken Alfredo w/ Penne Pasta & Garlic Bread
-DTSTART;VALUE=DATE:20260330
-DESCRIPTION:Featured Entree(s):\nChicken Alfredo w/ Penne Pasta & Garlic B
- read\nVegetarian Alfredo w/ Penne Pasta & Garlic Bread\n\nDaily Choices:\n
- Chicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & 
- Jelly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nBaby Carr
- ots\nCucumber Slices\n\nFruit:\nApple Slices\n\nMilk:\nFat Free Chocolate 
- Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunch: Mandarin Orange Chicken w/ Brown Rice
-DTSTART;VALUE=DATE:20260331
-DESCRIPTION:Featured Entree(s):\nMandarin Orange Chicken w/ Brown Rice\n\n
- Daily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-m
- ade Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nSteamed Br
- occoli\nRomaine Lettuce\nCucumber Slices\nBlack Beans\n\nFruit:\nBanana \n
- \nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ra
- nch Dressing\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunch: Belgian Waffle w/ Strawberry Compote & Cheese Omelet
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Featured Entree(s):\nBelgian Waffle w/ Strawberry Compote & Ch
@@ -570,5 +359,151 @@ DESCRIPTION:Featured Entree(s):\nBeef & Bean Nachos w/ Corn Tortilla Chips
  weet Corn\nAssorted Vegetables\n\nFruit:\nAssorted Fresh Fruit\n\nMilk:\nF
  at Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressi
  ng\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Chicken Alfredo w/ Penne Pasta & Garlic Bread
+DTSTART;VALUE=DATE:20260601
+DESCRIPTION:Featured Entree(s):\nChicken Alfredo w/ Penne Pasta & Garlic B
+ read\nVegetarian Alfredo w/ Penne Pasta & Garlic Bread\n\nDaily Choices:\n
+ Chicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & 
+ Jelly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nCherry To
+ matoes\nCelery\n\nFruit:\nApple Slices\n\nMilk:\nFat Free Chocolate Milk\n
+ 1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Mandarin Orange Chicken w/ Brown Rice
+DTSTART;VALUE=DATE:20260602
+DESCRIPTION:Featured Entree(s):\nMandarin Orange Chicken w/ Brown Rice\n\n
+ Daily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-m
+ ade Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nSteamed Br
+ occoli\nRomaine Lettuce\nCherry Tomatoes\nGarbanzo Beans\n\nFruit:\nFresh 
+ Strawberries\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup
+ \nHomestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Belgian Waffle w/ Strawberry Compote & Cheese Omelet
+DTSTART;VALUE=DATE:20260603
+DESCRIPTION:Featured Entree(s):\nBelgian Waffle w/ Strawberry Compote & Ch
+ eese Omelet\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese 
+ Burrito\nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetabl
+ es:\nRomaine Lettuce\nCelery\nGarbanzo Beans\n\nFruit:\nTangerine/Mandarin
+  Oranges\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHo
+ mestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Grilled Cheese Sandwich
+DTSTART;VALUE=DATE:20260604
+DESCRIPTION:Featured Entree(s):\nGrilled Cheese Sandwich\n\nDaily Choices:
+ \nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter 
+ & Jelly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nBaby Ca
+ rrots\nSweet Corn\n\nFruit:\nSliced Yellow Peaches\n\nMilk:\nFat Free Choc
+ olate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Cheeseburger
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Featured Entree(s):\nCheeseburger\nOr\nVeggie Burger [Vegan]\n
+ \nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome
+ -made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nPotato S
+ miles\nRomaine Lettuce\nCrunchy Veggies\nAssorted Vegetables\n\nFruit:\nAs
+ sorted Fresh Fruit\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nK
+ etchup\nHomestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Breaded Chicken Tenders & Wheat Roll
+DTSTART;VALUE=DATE:20260608
+DESCRIPTION:Featured Entree(s):\nBreaded Chicken Tenders & Wheat Roll\nOr\
+ nBreaded Kickin' Nuggets & Wheat Roll\n\nDaily Choices:\nChicken Burger\nH
+ and-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jelly Sandwich w/
+  String Cheese\n\nVegetables:\nBaked Fries\nRomaine Lettuce\nCherry Tomato
+ es\nCelery\n\nFruit:\nApple Slices\n\nMilk:\nFat Free Chocolate Milk\n1% M
+ ilk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Flaky Egg & Cheese Croissant Sandwich
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Featured Entree(s):\nFlaky Egg & Cheese Croissant Sandwich\n\n
+ Daily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-m
+ ade Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nHash Brown
+  Patty\nRomaine Lettuce\nGarbanzo Beans\nCherry Tomatoes\n\nFruit:\nFresh 
+ Strawberries\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup
+ \nHomestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Macaroni & Cheese with Wheat Roll
+DTSTART;VALUE=DATE:20260610
+DESCRIPTION:Featured Entree(s):\nMacaroni & Cheese with Wheat Roll\n\nDail
+ y Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made 
+ Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\nSteamed Brocco
+ li\nRomaine Lettuce\nCelery\nGarbanzo Beans\n\nFruit:\nTangerine/Mandarin 
+ Oranges\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHom
+ estyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Cheese Stuffed Breadsticks with Marinara Dipping Sauce
+DTSTART;VALUE=DATE:20260611
+DESCRIPTION:Featured Entree(s):\nCheese Stuffed Breadsticks with Marinara 
+ Dipping Sauce\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Chees
+ e Burrito\nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegeta
+ bles:\nRomaine Lettuce\nBaby Carrots\nSweet Corn\n\nFruit:\nSliced Yellow 
+ Peaches\n\nMilk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHom
+ estyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Crispy Alaskan Pollock Nuggets & Whole Wheat Roll
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Featured Entree(s):\nCrispy Alaskan Pollock Nuggets & Whole Wh
+ eat Roll\nOr\nBreaded Kickin' Nuggets & Wheat Roll\n\nDaily Choices:\nChic
+ ken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jell
+ y Sandwich w/ String Cheese\n\nVegetables:\nBaked Fries\nRomaine Lettuce\n
+ Crunchy Veggies\nAssorted Vegetables\n\nFruit:\nAssorted Fresh Fruit\n\nMi
+ lk:\nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch 
+ Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Italian Meatballs w/ Penne Pasta & Garlic Bread
+DTSTART;VALUE=DATE:20260615
+DESCRIPTION:Featured Entree(s):\nItalian Meatballs w/ Penne Pasta & Garlic
+  Bread\n\nDaily Choices:\nChicken Burger\nHand-wrapped Bean & Cheese Burri
+ to\nHome-made Sunbutter & Jelly Sandwich w/ String Cheese\n\nVegetables:\n
+ Romaine Lettuce\nCherry Tomatoes\nCelery\n\nFruit:\nApple Slices\n\nMilk:\
+ nFat Free Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dres
+ sing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Cheese Pizza Slice
+DTSTART;VALUE=DATE:20260616
+DESCRIPTION:Featured Entree(s):\nCheese Pizza Slice\n\nDaily Choices:\nChi
+ cken Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jel
+ ly Sandwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nGarbanzo Bea
+ ns\nCherry Tomatoes\n\nFruit:\nTangerine/Mandarin Oranges\n\nMilk:\nFat Fr
+ ee Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Chicken Burger
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:Featured Entree(s):\nChef's Choice\n\nDaily Choices:\nChicken 
+ Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jelly Sa
+ ndwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nGarbanzo Beans\nS
+ weet Corn\n\nFruit:\nSliced Yellow Peaches\n\nMilk:\nFat Free Chocolate Mi
+ lk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Chicken Burger
+DTSTART;VALUE=DATE:20260618
+DESCRIPTION:Featured Entree(s):\nChef's Choice\n\nDaily Choices:\nChicken 
+ Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jelly Sa
+ ndwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nBaby Carrots\nSwe
+ et Corn\n\nFruit:\nFresh Fruit Variety\n\nMilk:\nFat Free Chocolate Milk\n
+ 1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch: Chicken Burger
+DTSTART;VALUE=DATE:20260622
+DESCRIPTION:Featured Entree(s):\nChef's Choice\n\nDaily Choices:\nChicken 
+ Burger\nHand-wrapped Bean & Cheese Burrito\nHome-made Sunbutter & Jelly Sa
+ ndwich w/ String Cheese\n\nVegetables:\nRomaine Lettuce\nAssorted Vegetabl
+ es\nRed/Orange Vegetables\n\nFruit:\nAssorted Fresh Fruit\n\nMilk:\nFat Fr
+ ee Chocolate Milk\n1% Milk\n\nMisc.:\nKetchup\nHomestyle Ranch Dressing\n
 END:VEVENT
 END:VCALENDAR
